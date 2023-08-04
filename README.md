@@ -3,7 +3,7 @@
 Loop station for mobile devices (Android smart phones, tablets). It records from your microfone to 2 stacked tracks. 
 You can add effects and control them through the position (accelerometer) of your device. 
 To run on your device you will need 2 files: LooperAcc.pd and LooperAcc.mmp. 
-The LooperAcc.pd file is the engine in Pure Data can be opened and edited with Pd on your computer, the LooperAcc.mmp file is the interface.
+The LooperAcc.pd file is the engine in Pure Data to be opened and edited with Pd on your computer, the LooperAcc.mmp file is the interface, also edited on your pc.
 
 1) Install <a href="https://danieliglesia.com/mobmuplat/">MobMuPlat</a> on your device</p>
 2) <a href="https://github.com/LabIO/LooperAcc">Download</a> the LooperAcc.pd and LooperAcc.mmp files to your device.
