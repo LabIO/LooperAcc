@@ -20,8 +20,7 @@ When you tap again it starts playing it. You control the playing or not by tappi
 Add effects rotating your device. Notice that the delay effect takes some time.
 - Have fun and send an email to labio.pt@gmail.com for any comment, question, suggestion.
 
-![LooperAcc interface](LooperAcc_interface_pic.jpeg)
-
+<a href="https://github.com/LabIO/LabIO.github.io/blob/master/LooperAcc_interface_pic.jpeg">Interface<\>
 
 Video tutorial on this work in progress:
 https://youtu.be/QJTvrbBhv-I
