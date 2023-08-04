@@ -6,8 +6,10 @@ The LooperAcc.pd file is the engine in Pure Data can be opened and edited with P
 
 1) Install <a href="https://danieliglesia.com/mobmuplat/">MobMuPlat</a> on your device</p>
 2) <a href="https://github.com/LabIO/LooperAcc">Download</a> the LooperAcc.pd and LooperAcc.mmp files to your device.
-3) MOVE LooperAcc.pd and LooperAcc.mmp files TO THE MOBMUPLAT DIRECTORY OF YOUR DEVICE. YOU NEED A FILE <a href="https://play.google.com/store/apps/details?id=com.ape.apps.filebrowser&hl=it&pli=1">BROWSER APP</a> TO DO THIS (basically cut&paste)
-4) Open MobMuPlat and look for LooperAcc.mmp, click on it and play with it.
+3) MOVE LooperAcc.pd and LooperAcc.mmp files TO THE MOBMUPLAT DIRECTORY OF YOUR DEVICE.
+   YOU NEED A FILE <a href="https://play.google.com/store/apps/details?id=com.ape.apps.filebrowser&hl=it&pli=1">BROWSER APP</a> TO DO
+   THIS (basically cut&paste)
+5) Open MobMuPlat and look for LooperAcc.mmp, click on it and play with it.
 
 INSTRUCTIONS
 - Tap REC1 and start recording track 1. This is the "base" track, the one that will establish the duration of the loop.
