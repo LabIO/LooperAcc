@@ -22,6 +22,8 @@ Add effects rotating your device. Notice that the delay effect takes some time.
 
 <a href="https://github.com/LabIO/LabIO.github.io/blob/master/LooperAcc_interface_pic.jpeg">Interface</a>
 
+![LooperAcc interface](LooperAcc_interface_pic.jpeg)
+
 Video tutorial on this work in progress:
 https://youtu.be/QJTvrbBhv-I
 
