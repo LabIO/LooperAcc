@@ -6,7 +6,7 @@ To run on your device you will need 2 files: LooperAcc.pd and LooperAcc.mmp.
 The LooperAcc.pd file is the engine in Pure Data to be opened and edited with Pd on your computer, the LooperAcc.mmp file is the interface, also edited on your pc.
 
 1) Install <a href="https://danieliglesia.com/mobmuplat/">MobMuPlat</a> on your device</p>
-2) <a href="https://github.com/LabIO/LooperAcc">Download</a> the LooperAcc.pd and LooperAcc.mmp files to your device.
+2) <a href="https://github.com/LabIO/LooperAcc">Download</a> the LooperAcc.pd and LooperAcc.mmp files to your device.</p>
 3) MOVE LooperAcc.pd and LooperAcc.mmp files TO THE MOBMUPLAT DIRECTORY OF YOUR DEVICE.
    YOU NEED A FILE <a href="https://play.google.com/store/apps/details?id=com.ape.apps.filebrowser&hl=it&pli=1">BROWSER APP</a> TO DO
    THIS (basically cut&paste)
